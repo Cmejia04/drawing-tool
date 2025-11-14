@@ -1,0 +1,12 @@
+----------------------
+|                 x  |
+| xxxxxxxxx       x  |
+|                 x  |
+|        xxxxxxxxx   |
+| xxxxx  x       x   |
+| xooox  x       x   |
+| xooox  x       x   |
+| xooox  x       x   |
+| xxxxx  xxxxxxxxx   |
+|                    |
+----------------------
